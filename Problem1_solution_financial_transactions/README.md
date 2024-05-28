@@ -42,6 +42,15 @@ In the above example, 'A' owes 'B' 50 and 'C' 20, while 'B' owes 'C' 30.
 
 3. No additional gems are required. The application runs on plain Ruby.
 
+## How to Run
+
+1. Ensure you have Ruby installed on your system. You can download it from [here](https://www.ruby-lang.org/en/downloads/).
+2. Clone this repository or download the `debt_manager.rb` file.
+3. Open a terminal and navigate to the directory where the file is located.
+4. Run the script using the command `ruby debt_manager.rb`.
+5. Follow the on-screen prompts to input the array of numbers and the value of \( k \).
+6. The script will then calculate and output the maximum average based on the provided inputs.
+
 ## Running Online
 
 You can also run this application in an online Ruby compiler like repl.it or OnlineGDB:
@@ -50,13 +59,6 @@ You can also run this application in an online Ruby compiler like repl.it or Onl
 2. Copy the content of debt_manager.rb into the editor.
 3. Run the code.
 4. Interact with the CLI using the commands listed above.
-
-## Usage
-
-Run the `debt_manager.rb` script to start the DebtManager CLI:
-```bash
-ruby debt_manager.rb
-```
 
 ### Available Commands
 
