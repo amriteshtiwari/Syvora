@@ -26,7 +26,6 @@ N , K , 100 <br>
 M , N , 10 <br>
 N , M , 5 <br>
 
-markdown
 
 
 ### Possible Commands in Command Line Interface
@@ -53,7 +52,6 @@ Input: {1,12,-5,-6,50,3}, k = 4
 Output: 12.75
 Explanation: When length is 5, maximum average value is 10.8, when length is 6, maximum average value is 9.16667. Thus, return 12.75.
 
-yaml
 
 
 ### Note
