@@ -60,3 +60,8 @@ Explanation: When length is 5, maximum average value is 10.8, when length is 6, 
 - The answer with the calculation error less than `10^-5` will be accepted.
 
 ---
+## Solutions
+
+Both problems are solved using Ruby. To view the solutions, navigate to the respective problem solution directory and follow the README provided there.
+
+---
